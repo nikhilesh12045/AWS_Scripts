@@ -1,2 +1,2 @@
 # AWS_Scripts
-This Repo Contains Varipus scrpits for AWS Automation
+This Repo Contains Varipus scripts for AWS Automation
